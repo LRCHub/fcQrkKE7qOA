@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "海まで",
+  "base_artist": "kobore",
+  "createdAt": "2026-02-08T21:55:48.485742Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "海まで",
+      "artist": "kobore",
+      "has_synced": false,
+      "path": "select/pl_01_海まで_kobore.txt"
+    }
+  ]
+}
